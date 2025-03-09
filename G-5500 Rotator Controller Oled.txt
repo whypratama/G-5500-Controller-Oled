@@ -7,7 +7,7 @@ int _gs232AzElIndex = 0;        // Position in GS232 Az-El sequence
 long _azimuthTemp = 0L;         // Temporary azimuth value
 long _elevationTemp = 0L;       // Temporary elevation value
 
-
+ 
 
 // OLED Display Configuration
 #define SCREEN_WIDTH 128  // OLED display width, in pixels
